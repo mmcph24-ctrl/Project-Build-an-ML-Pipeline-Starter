@@ -179,3 +179,12 @@ Please, make sure all steps are using **the same** python version and that you h
 ## License
 
 [License](LICENSE.txt)
+
+
+## Project Links
+
+Weights & Biases Project:
+https://wandb.ai/mmcph24-western-governors-university/nyc_airbnb
+
+GitHub Repository:
+https://github.com/mmcph24-ctrl/Project-Build-an-ML-Pipeline-Starter
